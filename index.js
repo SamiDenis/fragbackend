@@ -39,6 +39,12 @@ router.get("/Mens/Cart", (req, res) =>{
     })
 })
 
+router.get("/Womens/Cart", (req, res) =>{
+    Cart.find(req.body).then((data) => {
+        res.json(data)
+    })
+})
+
 
 router.post("/Mens/Cart", (req, res) =>{
     Cart.create(req.body).then((data) => {
@@ -46,7 +52,20 @@ router.post("/Mens/Cart", (req, res) =>{
     })
 })
 
+router.post("/Womens/Cart", (req, res) =>{
+    Cart.create(req.body).then((data) => {
+        res.json(data)
+    })
+})
+
 router.get("/Mens/Cart/:id", (req, res) => {
+    Cart.findOneAndUpdate({ _id: req.params.id }, req.body)
+    .then(data => {
+        res.json(data)
+    })
+})
+
+router.get("/Womens/Cart/:id", (req, res) => {
     Cart.findOneAndUpdate({ _id: req.params.id }, req.body)
     .then(data => {
         res.json(data)
@@ -60,6 +79,13 @@ router.put("/Mens/Cart/:id", (req, res) => {
     })
 })
 
+router.put("/Womens/Cart/:id", (req, res) => {
+    Cart.findOneAndUpdate({ _id: req.params.id }, req.body)
+    .then(data => {
+        res.json(data)
+    })
+})
+
 router.delete("/Mens/Cart/:id", (req, res) => {
     Cart.findOneAndDelete({ _id: req.params.id }, req.body)
     .then(data => {
@@ -67,7 +93,12 @@ router.delete("/Mens/Cart/:id", (req, res) => {
     })
 })
 
-
+router.delete("/Womens/Cart/:id", (req, res) => {
+    Cart.findOneAndDelete({ _id: req.params.id }, req.body)
+    .then(data => {
+        res.json(data)
+    })
+})
 
 
 router.set("port", process.env.PORT || 9080);
