@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Bleu De Chanel",
+        "brand": "Chanel",
+        "type": "Eau de Toilette",
+        "price": "77",
+        "family": "Earthy and Woody",
+        "notes": ["Citrus Accord", "Labdanum", "Sandalwood Cedar"]
+    },
+
+    {
+        "name": "Sauvage",
+        "brand": "Dior",
+        "type": "Eau de Toilette",
+        "price": "77",
+        "family": "Earthy and Woody",
+        "notes": ["Bergamot", "Pepper", "Amberwood"]
+    },
+    {
+        "name": "Ombre Leather",
+        "brand": "Tom Ford",
+        "type": "Eau de Parfum",
+        "price": "184",
+        "family": "Warm and Spicy",
+        "notes": ["Black Leather", "Cardamom", "Patchouli"]
+        
+    },
+    {
+        "name": "Invictus",
+        "brand": "Paco Rabanne",
+        "type": "Eau de Toilette",
+        "price": "94",
+        "family": "Fresh",
+        "notes": ["Ambery Woods", "Wet Violet Leaf", "Grapefruit Granite"]
+    },
+    {
+        "name": "Luna Rossa Black",
+        "brand": "Prada",
+        "type": "Eau de Parfum",
+        "price": "102",
+        "family": "Warm and Spicy",
+        "notes": ["Bergamot", "Musk", "Ambergris"]
+    },
+    {
+        "name": "Light Blue Pour Homme",
+        "brand": "Dolce&Gabbana",
+        "type": "Eau de Toilette",
+        "price": "90",
+        "family": "Fresh",
+        "notes": ["Juniper", "Mandarin", "Oakmoss", "Aquatic Note"]
+    },
+    {
+        "name": "Y",
+        "brand": "Yves Saint Laurent",
+        "type": "Eau de Toilette",
+        "price": "97",
+        "family": "Earthy & Woody",
+        "notes": ["Bergamot", "Sage", "Cedarwoods"]
+    },
+    {
+        "name": "Eros",
+        "brand": "Versace",
+        "type": "Eau de Toilette",
+        "price": "70",
+        "family": "Warm and Spicy",
+        "notes": ["Mint Leaves", "Orange Blossom", "Vanilla Madagascar"]
+    },
+    {
+        "name": "Spicebomb",
+        "brand": "Viktor&Rolf",
+        "type": "Eau de Toilette",
+        "price": "92",
+        "family": "Earthy & Woody",
+        "notes": ["Sage", "Triple Black Spice Complex", "Roasted Almonds"]
+    },
+    {
+        "name": "Jazz Club",
+        "brand": "Maison Margiela",
+        "type": "Eau de Toilette",
+        "price": "130",
+        "family": "Warm and Spicy",
+        "notes": ["Pink Pepper", "Rum Absolute", "Tobacco Leaf Absolute"]
+    },
+    {
+        "name": "Guilty Pour Homme",
+        "brand": "Gucci",
+        "type": "Eau de Toilette",
+        "price": "130",
+        "family": "Earthy and Woody",
+        "notes": ["Lavender, Lemon"]
+    },
+    {
+        "name": "Terre d'Hermes Eau Intense Vetiver",
+        "brand": "Hermes",
+        "type": "Eau de Parfum",
+        "price": "96",
+        "family": "Earthy and Woody",
+        "notes": ["Vetiver", "Green Bergamot", "Sichuan Peppers"]
+    }
+
+]
