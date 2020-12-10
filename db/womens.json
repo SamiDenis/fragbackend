@@ -5,7 +5,8 @@
         "type": "Eau de Parfum",
         "price": "100",
         "family": "Floral",
-        "notes": ["Blackcurrant", "Jasmine Grandiflorum", "Bourbon Vanilla"]
+        "notes": ["Blackcurrant", "Jasmine Grandiflorum", "Bourbon Vanilla"],
+        "image_url": "https://www.sephora.com/productimages/product/p449117-av-10-zoom.jpg"
             
     },
 
@@ -15,7 +16,8 @@
         "type": "Eau de Parfum",
         "price": "165",
         "family": "Warm and Spicy",
-        "notes": ["Jasmine", "Orange Blossom", "Patchouli"]
+        "notes": ["Jasmine", "Orange Blossom", "Patchouli"],
+        "image_url": "https://www.shopmyexchange.com/products/images/xlarge/3143780_0000.jpg"
     },
     {
         "name": "Coco Mademoiselle",
@@ -23,7 +25,8 @@
         "type": "Eau de Parfum Intense",
         "price": "115",
         "family": "Floral",
-        "notes": ["Patchouli", "Tonka Bean", "Vanilla Absolute"]
+        "notes": ["Patchouli", "Tonka Bean", "Vanilla Absolute"],
+        "image_url": "https://images.ulta.com/is/image/Ulta/2523367?op_sharpen=1&resMode=bilin&qlt=85&wid=800&hei=800&fmt=jpg"
         
     },
     {
@@ -32,7 +35,8 @@
         "type": "Eau de Parfum",
         "price": "106",
         "family": "Floral",
-        "notes": ["Lavender Essence", "Orange Blossom", "Musk Accord"]
+        "notes": ["Lavender Essence", "Orange Blossom", "Musk Accord"],
+        "image_url": "https://images.squarespace-cdn.com/content/v1/532cddfde4b0ed181e2301c2/1564716261235-AOMZ02AHZZH8U922IWI1/ke17ZwdGBToddI8pDm48kAdeOWsuMULA76P1exkHz69Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzIKyOthhRlmYETRP3z5DQdY0zznV1sceyCLGINZi5MKZAFzpIxlIPhI-y8OBBK1CI/YSL+Beauty+LIBRE+fragrance+perfume%2C+lavender%2C+orange+blossom+scent%2C+YSL+leather+cuff+bracelet%2C+david+yurman+cable+bracelet%2C+ring%2C+diptyque+candle%2C+marble+tray%2C+beauty+blog%2C+woahstyle.com_2119.jpg"
     },
     {
         "name": "Chloe",
@@ -40,7 +44,8 @@
         "type": "Eau de Parfum",
         "price": "132",
         "family": "Floral",
-        "notes": ["Peony, Rose", "Honey", "Cedarwood"]
+        "notes": ["Peony, Rose", "Honey", "Cedarwood"],
+        "image_url":"https://i5.walmartimages.com/asr/05f59d77-3d22-4da5-8ed5-336b399f4b82_1.8f2a9be4757073f7f67ccf94053bdcbd.jpeg"
     },
     {
         "name": "Good Girl",
@@ -48,7 +53,8 @@
         "type": "Eau de Parfum",
         "price": "96",
         "family": "Floral",
-        "notes": ["Tuberose", "Jasmine", "Tonka Bean"]
+        "notes": ["Tuberose", "Jasmine", "Tonka Bean"],
+        "image_url": "https://images.ulta.com/is/image/Ulta/2515346?op_sharpen=1&resMode=bilin&qlt=85&wid=800&hei=800&fmt=jpg"
     },
     {
         "name": "J'adore",
@@ -56,7 +62,8 @@
         "type": "Eau de Parfum",
         "price": "135",
         "family": "Floral",
-        "notes": ["Ylang Ylang", "Damascus Rose", "Jasmine"]
+        "notes": ["Ylang Ylang", "Damascus Rose", "Jasmine"],
+        "image_url": "https://www.dior.com/beauty/version-5.1595261547026/resize-image/ep/715/773/90/0/%252FY0715201%252FV003%252FY0715201_F071524009_E03_GHC_en_US.jpg?imwidth=800"
     },
     {
         "name": "Lost Cherry",
@@ -64,7 +71,8 @@
         "type": "Eau de Parfum",
         "price": "350",
         "family": "Warm and Spicy",
-        "notes": ["Black Cherry Accord", "Bitter Almond", "Griotte Sirup Scenttrek", "Rose Absolute Orpur", "Peru Balsam", "Roasted Tonka Orpur"]
+        "notes": ["Black Cherry Accord", "Bitter Almond", "Griotte Sirup Scenttrek", "Rose Absolute Orpur", "Peru Balsam", "Roasted Tonka Orpur"],
+        "image_url": "https://n.nordstrommedia.com/id/sr3/d1e346c1-77ee-4248-b4b7-4f45288e27d8.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
     },
     {
         "name": "Alien",
@@ -72,7 +80,8 @@
         "type": "Eau de Parfum",
         "price": "120",
         "family": "Floral",
-        "notes": ["Jasmine Sambac", "Cashmeran Wood", "Amber Gris"]
+        "notes": ["Jasmine Sambac", "Cashmeran Wood", "Amber Gris"],
+        "image_url": "https://slimages.macys.com/is/image/MCY/products/9/optimized/8378609_fpx.tif?op_sharpen=1&wid=500&hei=613&fit=fit,1&$filtersm$"
     },
     {
         "name": "Love, Don't Be Shy",
@@ -80,7 +89,8 @@
         "type": "Eau de Parfum",
         "price": "240",
         "family": "Floral",
-        "notes": ["Orange blossom", "Vanilla", "Luscious Marshmallow"]
+        "notes": ["Orange blossom", "Vanilla", "Luscious Marshmallow"],
+        "image_url": "https://www.sephora.com/productimages/sku/s2320133-main-zoom.jpg"
     },
     {
         "name": "La Vie Est Belle",
@@ -88,7 +98,8 @@
         "type": "L'Eau de Parfum",
         "price": "99",
         "family": "Warm and Spicy",
-        "notes": ["Iris, Vanilla", "Praline"]
+        "notes": ["Iris, Vanilla", "Praline"],
+        "image_url": "https://www.sephora.com/productimages/sku/s1459981-main-zoom.jpg"
     },
     {
         "name": "Bloom",
@@ -96,7 +107,8 @@
         "type": "Eau de Parfum",
         "price": "104",
         "family": "Floral",
-        "notes": ["Rangoon Creeper", "Jasmine Bud", "Tuberose "]
+        "notes": ["Rangoon Creeper", "Jasmine Bud", "Tuberose "],
+        "image_url": "https://www.sephora.com/productimages/sku/s1964857-main-zoom.jpg"
     }
 
 ]

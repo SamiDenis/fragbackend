@@ -8,7 +8,8 @@ const Mens = new Schema({
     "type": String,
     "price": Number,
     "family": String,
-    "notes": [String]
+    "notes": [String],
+    "image_url": String
 })
 
 module.exports = mongoose.model('Mens', Mens)
