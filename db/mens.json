@@ -101,13 +101,13 @@
         "image_url": "https://fimgs.net/mdimg/perfume/375x500.13075.jpg"
     },
     {
-        "name": "Terre d'Hermes Eau Intense Vetiver",
+        "name": "Terre d'Hermes",
         "brand": "Hermes",
-        "type": "Eau de Parfum",
-        "price": "96",
+        "type": "Eau de Toilette",
+        "price": "124",
         "family": "Earthy and Woody",
-        "notes": ["Vetiver", "Green Bergamot", "Sichuan Peppers"],
-        "image_url": "https://www.sephora.com/productimages/sku/s2121457-main-zoom.jpg"
+        "notes": ["Grapefruit Accord", "Black Peppers", "Flint"],
+        "image_url": "https://n.nordstrommedia.com/id/sr3/555affdf-6006-4833-8fcc-f6dae0b3cf85.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
     }
 
 ]
