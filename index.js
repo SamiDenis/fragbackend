@@ -52,8 +52,20 @@ router.post("/Mens/Cart", (req, res) =>{
     })
 })
 
+router.post("/Mens", (req, res) =>{
+    Mens.create(req.body).then(data => {
+        res.json(data)
+    })
+})
+
 router.post("/Womens/Cart", (req, res) =>{
     Cart.create(req.body).then((data) => {
+        res.json(data)
+    })
+})
+
+router.post("/Womens", (req, res) =>{
+    Womens.create(req.body).then(data => {
         res.json(data)
     })
 })
