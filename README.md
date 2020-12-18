@@ -38,3 +38,16 @@ API CREATED LINKS :
 
 (Using DELETE) https://fragbackend.herokuapp/Womens/Cart/:id ==> *page deleting all files specific to their id [womens]
 
+
+Backend created using:
+  *Node.js
+  *Mongoose
+  *MongoDB
+  *CORS
+  *Express
+
+Dependencies Installed:
+  * npm init  
+  * npm install express
+  * npm install mongoose 
+  * npm install cors 
