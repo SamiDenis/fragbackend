@@ -1,10 +1,12 @@
 # fragbackend
 
-FRAGRANCE API LINK: https://fragbackend.herokuapp.com/Mens
-                    https://fragbackend.herokuapp.com/Womens
+FRAGRANCE API LINK: 
+  (Mens)  https://fragbackend.herokuapp.com/Mens
+  (Womens)  https://fragbackend.herokuapp.com/Womens
 
-API CREATED LINKS : https://fragbackend.herokuapp/Mens
-                    https://fragbackend.herokuapp/Womens
+API CREATED LINKS : 
+  (Mens)  https://fragbackend.herokuapp/Mens
+  (Womens)  https://fragbackend.herokuapp/Womens
 
 (Using GET) https://fragbackend.herokuapp/Mens ==> *page accessing the info for mens fragrance and their properties
 
